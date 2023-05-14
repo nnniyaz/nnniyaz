@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Niyaz (@nnniyaz)
-- 🔭 I’m currently on my path for Full-stack JavaScript Developer (MERN)
-- 🌱 I’m interested in software engineering
-- 💡 I am looking for a collaboration on open source projects
-- 📫 How to reach me: nassyrovich@gmail.com
+Hi, I’m Niyaz (@nnniyaz)
+---
+I’m Software Developer. Currently working on own project which will be published here soon.
+
+I am always ready for a collaboration on open source projects.
+
+- 📫 You can contact me with Telegram: @nassyrovich | https://t.me/nassyrovich
