@@ -4,4 +4,4 @@ I’m Software Developer. Currently working on my own project which will be publ
 
 I am always open for a collaboration on open source projects.
 
-- 📫 You can find me in Telegram: [@nassyrovich](https://t.me/niyaznassyrov)
+- 📫 You can find me in Telegram: [@niyaznassyrov](https://t.me/niyaznassyrov)
